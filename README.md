@@ -71,7 +71,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=8)](https://skillicons.dev)
+![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
 
 ###
 
