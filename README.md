@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://discord.gg/CtFgKp9QVs)
+[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://yahinnielvas-cv.netlify.app/)
 
 ###
 
