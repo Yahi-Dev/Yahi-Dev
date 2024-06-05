@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)]()
+[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://discord.gg/CtFgKp9QVs)
 
 ###
 
