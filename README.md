@@ -47,7 +47,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,java,nextjs,js&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,java,nextjs,php,js&perline=8)](https://skillicons.dev)
 
 ###
 
