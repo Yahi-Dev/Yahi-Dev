@@ -72,6 +72,7 @@
 ###
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40">
+<img src="https://skillicons.dev/icons?i=prisma" />
 
 ###
 
@@ -87,7 +88,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=postman,vscode,rider,eclipse,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,rider,eclipse,docker,aws,azure,figma)](https://skillicons.dev)
 
 ###
 
