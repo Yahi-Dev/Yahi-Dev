@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a Software Development student with experience in Backend Development, specializing in C# and Python. I possess strong problem-solving and leadership skills. My focus is on creating efficient and high-quality technological solutions, and I am committed to continuous improvement and learning.</p>
+<p align="left">I am a highly skilled software developer specializing in the .NET suite. Despite my young age, I have solid skills in full-stack development, NextJS, ReactJS, Laravel, PHP, Docker, and SQL database management. I have practical experience with frameworks such as NextJS, .NET, ReactJS, and Laravel, as well as proficiency in languages ​such as C# and JavaScript. I stand out for my ability to solve problems, lead projects, and collaborate effectively in agile teams. My passion is creating innovative, efficient, and high-quality technological solutions that meet market needs and exceed expectations.</p>
 
 ###
 
