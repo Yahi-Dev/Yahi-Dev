@@ -55,7 +55,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,html,react,angular,tailwind,shadcn,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,html,react,angular,tailwind,css&perline=8)](https://skillicons.dev)
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,laravel,nextjs,&perline=8)](https://skillicons.dev)
 
 ###
 
